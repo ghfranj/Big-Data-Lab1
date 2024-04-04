@@ -1,0 +1,5 @@
+[core]
+    remote = remote_storage
+    autostage = true
+['remote "remote_storage"']
+    url = C:\pycharm\BigData\Lab1\dvc_remote

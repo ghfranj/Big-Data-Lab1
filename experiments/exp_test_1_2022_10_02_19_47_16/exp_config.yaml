@@ -1,0 +1,9 @@
+model: RAND_FOREST
+model params:
+  n_estimators: '100'
+  criterion: entropy
+  path: C:\pycharm\BigData\Lab1\mle-template\experiments\rand_forest.sav
+tests: func
+score: '1.0'
+X_test path: C:\pycharm\BigData\Lab1\mle-template\data\Test_Iris_X.csv
+y_test path: C:\pycharm\BigData\Lab1\mle-template\data\Test_Iris_y.csv

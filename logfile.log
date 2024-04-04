@@ -1,0 +1,7 @@
+2024-03-28 23:03:43,387 — __main__ — INFO — MultiModel is ready
+2024-03-28 23:03:43,896 — __main__ — INFO — C:\pycharm\BigData\Lab1\mle-template-main\experiments\log_reg.sav is saved
+2024-03-28 23:03:51,284 — __main__ — INFO — C:\pycharm\BigData\Lab1\mle-template-main\experiments\rand_forest.sav is saved
+2024-03-28 23:03:51,812 — __main__ — INFO — C:\pycharm\BigData\Lab1\mle-template-main\experiments\knn.sav is saved
+2024-03-28 23:03:58,760 — __main__ — INFO — C:\pycharm\BigData\Lab1\mle-template-main\experiments\svm.sav is saved
+2024-03-28 23:04:01,774 — __main__ — INFO — C:\pycharm\BigData\Lab1\mle-template-main\experiments\gnb.sav is saved
+2024-03-28 23:04:03,459 — __main__ — INFO — C:\pycharm\BigData\Lab1\mle-template-main\experiments\d_tree.sav is saved
